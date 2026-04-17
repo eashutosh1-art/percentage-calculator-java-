@@ -1,0 +1,18 @@
+"C:\Program Files\Java\jdk-25.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2025.3.3\lib\idea_rt.jar=64076" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\Ashutosh\Java\CodeWithMe\out\production\CodeWithMe CWM_4
+Taking output from the User
+Enter Subject 1st Marks
+50
+Enter Subject 2nd Marks
+50
+Enter Subject 3rd Marks
+50
+Enter Subject 4th Marks
+50
+Enter Subject 5th Marks
+50
+The Sum of the marks is 250
+Marks In percentage = 50.0
+Grade C1
+Congratulations You are Passed
+
+Process finished with exit code 0
